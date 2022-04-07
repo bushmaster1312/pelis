@@ -1,0 +1,36 @@
+.hero{
+    width: 100%;
+
+}
+
+.image{
+    width: 100%;
+}
+
+.paginas{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.prev{
+    width: 30px;
+    border-radius: 5px;
+    padding: 2px;
+    margin-right: 5px;
+    background-color: rgba(250, 37, 0, 0.88);
+    color: #fff;
+    border: none;
+}
+
+.next{
+    width: 30px;
+    border-radius: 5px;
+    padding: 2px;
+   
+    background-color: rgba(250, 37, 0, 0.88);
+    color: #fff;
+    border: none;
+}

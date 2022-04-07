@@ -1,0 +1,31 @@
+.favoritos {
+    width: 400px;
+    display: flex;
+    border: 3px solid rgb(241, 29, 29);
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+ }
+
+
+.img{
+   width: 100px;
+}
+.p{
+    width: 240px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center; 
+    text-align: center;
+}
+.sinfavoritos{
+    align-items: center;
+    text-align: center;
+}
+.botonx{
+ border-radius: 50px;
+ border: none;
+ color: rgb(255, 9, 9);
+ font-size: 20px;
+ background-color: #fff;
+}
