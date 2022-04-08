@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pelis/static/css/main.a30ffaec.css",
+    "main.js": "/pelis/static/js/main.ec3cf06c.js",
+    "static/media/pixar.webp": "/pelis/static/media/pixar.cf3ab9c4d60e89095333.webp",
+    "static/media/logo.png": "/pelis/static/media/logo.aa8f23c73fa0b0f2dd08.png",
+    "index.html": "/pelis/index.html",
+    "main.a30ffaec.css.map": "/pelis/static/css/main.a30ffaec.css.map",
+    "main.ec3cf06c.js.map": "/pelis/static/js/main.ec3cf06c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a30ffaec.css",
+    "static/js/main.ec3cf06c.js"
+  ]
+}
